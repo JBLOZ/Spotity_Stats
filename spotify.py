@@ -13,8 +13,8 @@ import seaborn as sns
 # In[2]:
 
 
-sp_tracks = pd.read_csv('D:/spotifydata/tracks.csv')
-sp_feature = pd.read_csv('D:/spotifydata/SpotifyFeatures.csv')
+sp_tracks = pd.read_csv('./spotifydata/tracks.csv')
+sp_feature = pd.read_csv('./spotifydata/SpotifyFeatures.csv')
 
 
 # In[3]:
