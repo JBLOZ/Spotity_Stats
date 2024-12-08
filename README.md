@@ -25,7 +25,7 @@ Este proyecto analiza datos de historial de reproducción de Spotify extraídos 
 #### a) **Por Canción**
 - Top 30 canciones más reproducidas.
 - Análisis de la duración total por canción.
-![ejemplo](spotifydata/canciones_mas_reproducidas.png)
+![](spotifydata/canciones_mas_reproducidas.png)
 
 #### b) **Por Artista**
 - Top 10 artistas más reproducidos.
@@ -33,6 +33,7 @@ Este proyecto analiza datos de historial de reproducción de Spotify extraídos 
 
 #### c) **Por Álbum**
 - Top 10 álbumes más reproducidos.
+![](spotifydata/topAlbumes.png)
 
 #### d) **Distribución de Duración**
 - Histograma para analizar la duración de las reproducciones.
@@ -57,6 +58,7 @@ Este proyecto analiza datos de historial de reproducción de Spotify extraídos 
 
 #### k) **Reproducciones por Hora del Día y Día de la Semana**
 - Análisis de patrones horarios y semanales.
+![](spotifydata/reproducciones_hora_del_dia.png)
 
 ### 5. **Visualizaciones**
 El proyecto incluye visualizaciones para una mejor comprensión de los datos:
