@@ -25,6 +25,7 @@ Este proyecto analiza datos de historial de reproducción de Spotify extraídos 
 #### a) **Por Canción**
 - Top 30 canciones más reproducidas.
 - Análisis de la duración total por canción.
+![ejemplo](spotifydata/canciones_mas_reproducidas.png)
 
 #### b) **Por Artista**
 - Top 10 artistas más reproducidos.
